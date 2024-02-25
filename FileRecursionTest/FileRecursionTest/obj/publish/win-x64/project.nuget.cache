@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7MWOJY7QR4Q3rBwZ8nwy3tF+Uudl3RfINo1OIZDUkVR1cWfI6KX7GoukPx5e50QWlz5M9sYQuRQyqtHSYC3S2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abourrig\\OneDrive - HP Inc\\Desktop\\Cory Project\\FileRecursionTest\\FileRecursionTest\\FileRecursionTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abourrig\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.7\\microsoft.netcore.app.runtime.win-x64.5.0.7.nupkg.sha512",
+    "C:\\Users\\abourrig\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.7.nupkg.sha512",
+    "C:\\Users\\abourrig\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.7\\microsoft.aspnetcore.app.runtime.win-x64.5.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

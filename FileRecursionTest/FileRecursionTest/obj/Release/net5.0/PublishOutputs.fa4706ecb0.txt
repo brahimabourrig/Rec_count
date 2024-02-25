@@ -1,0 +1,5 @@
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\bin\Release\net5.0\publish\FileRecursionTest.exe
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\bin\Release\net5.0\publish\FileRecursionTest.dll
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\bin\Release\net5.0\publish\FileRecursionTest.deps.json
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\bin\Release\net5.0\publish\FileRecursionTest.runtimeconfig.json
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\bin\Release\net5.0\publish\FileRecursionTest.pdb

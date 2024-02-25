@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileRecursionTest": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\abourrig\\Downloads"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\bin\Release\net5.0\FileRecursionTest.exe
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\bin\Release\net5.0\FileRecursionTest.deps.json
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\bin\Release\net5.0\FileRecursionTest.runtimeconfig.json
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\bin\Release\net5.0\FileRecursionTest.runtimeconfig.dev.json
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\bin\Release\net5.0\FileRecursionTest.dll
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\bin\Release\net5.0\ref\FileRecursionTest.dll
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\bin\Release\net5.0\FileRecursionTest.pdb
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\obj\Release\net5.0\FileRecursionTest.csproj.AssemblyReference.cache
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\obj\Release\net5.0\FileRecursionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\obj\Release\net5.0\FileRecursionTest.AssemblyInfoInputs.cache
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\obj\Release\net5.0\FileRecursionTest.AssemblyInfo.cs
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\obj\Release\net5.0\FileRecursionTest.csproj.CoreCompileInputs.cache
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\obj\Release\net5.0\FileRecursionTest.dll
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\obj\Release\net5.0\ref\FileRecursionTest.dll
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\obj\Release\net5.0\FileRecursionTest.pdb
+C:\Users\abourrig\OneDrive - HP Inc\Desktop\Cory Project\FileRecursionTest\FileRecursionTest\obj\Release\net5.0\FileRecursionTest.genruntimeconfig.cache
